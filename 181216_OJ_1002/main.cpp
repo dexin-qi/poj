@@ -12,6 +12,7 @@ typedef struct
 	int occTimes;
 }_stPhone;
 
+
 int main()
 {
 	long memberLength = 0;
